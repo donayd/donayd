@@ -31,7 +31,7 @@ object DonaydCorrea : AndroidDeveloper() {
 
 [![Turtle Jumping](https://playbadges.pavi2410.com/badge/full?id=com.dreammkr.game&theme=dark)](https://play.google.com/store/apps/details?id=com.dreammkr.game)
 [![Ghost Snake](https://playbadges.pavi2410.com/badge/full?id=com.dreammkr.ghostsnake&theme=dark)](https://play.google.com/store/apps/details?id=com.dreammkr.ghostsnake)
-[![Reading journal](https://playbadges.pavi2410.com/badge/full?id=com.dreammkr.readingjournal.android&theme=dark)](https://play.google.com/store/apps/details?id=com.dreammkr.readingjournal.android)
+
 
 <br>
 
