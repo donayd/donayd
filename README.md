@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, Wellcome to my Github! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there, Wellcome to my Github! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Nova+Square&size=24&pause=1000&center=true&vCenter=true&color=88C0D0&random=false&width=1024&height=128&lines=I'm+Donayd+Correa+M.;Passionate+for+App+Creation;Artifical+Inteligence+Specialist)](https://git.io/typing-svg)
 <br>
