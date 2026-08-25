@@ -74,7 +74,7 @@ object DonaydCorrea : AndroidDeveloper() {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">	
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donayd&theme=holi-theme">
+	<img align="center" src="https://streak-stats.demolab.com/?user=donayd&theme=holi-theme">
 </p>
 <br>
 
