@@ -73,8 +73,8 @@ object DonaydCorrea : AndroidDeveloper() {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p align="center">	
-	<img align="center" src="https://streak-stats.demolab.com/?user=donayd&theme=holi-theme">
+<p align="center">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=donayd&theme=tokyonight" alt="GitHub Stats Extended">
 </p>
 <br>
 
